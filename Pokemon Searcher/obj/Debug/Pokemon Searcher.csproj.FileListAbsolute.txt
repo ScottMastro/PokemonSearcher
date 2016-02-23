@@ -1,0 +1,54 @@
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.exe
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.pdb
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmMain.resources
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.csproj.GenerateResource.Cache
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.exe
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.pdb
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmSearchparameters.resources
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.exe
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.pdb
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.exe
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.pdb
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\ResolveAssemblyReference.cache
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmMain.resources
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmSearchparameters.resources
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.csproj.GenerateResource.Cache
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmNickname.resources
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmNickname.resources
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.GenericDialogBox.resources
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.GenericDialogBox.resources
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmStats.resources
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmStats.resources
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmHelp.resources
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmHelp.resources
+C:\Users\Valued Customer\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.exe
+C:\Users\Valued Customer\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.pdb
+C:\Users\Valued Customer\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.exe
+C:\Users\Valued Customer\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.pdb
+C:\Users\Valued Customer\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Valued Customer\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmHelp.resources
+C:\Users\Valued Customer\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmStats.resources
+C:\Users\Valued Customer\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmMain.resources
+C:\Users\Valued Customer\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmSearchparameters.resources
+C:\Users\Valued Customer\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmNickname.resources
+C:\Users\Valued Customer\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.GenericDialogBox.resources
+C:\Users\Valued Customer\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Valued Customer\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.csproj.GenerateResource.Cache
+C:\Users\Scott\Older Files\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.exe
+C:\Users\Scott\Older Files\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.pdb
+C:\Users\Scott\Older Files\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.exe
+C:\Users\Scott\Older Files\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.pdb
+C:\Users\Scott\Older Files\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Older Files\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmHelp.resources
+C:\Users\Scott\Older Files\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmStats.resources
+C:\Users\Scott\Older Files\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmMain.resources
+C:\Users\Scott\Older Files\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmSearchparameters.resources
+C:\Users\Scott\Older Files\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmNickname.resources
+C:\Users\Scott\Older Files\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.GenericDialogBox.resources
+C:\Users\Scott\Older Files\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Scott\Older Files\School Work\Gr. 12\Programming\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.csproj.GenerateResource.Cache
+C:\Users\Scott\Desktop\PokemonSearcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.exe
+C:\Users\Scott\Desktop\PokemonSearcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.pdb
